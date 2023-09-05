@@ -21,3 +21,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/c5e88e15-2c3d-4f6c-a411-2fe9688cbaab" alt="JavaScript" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/7c5b0ae3-db9e-4b0c-bc71-5ca8509e4118" alt="HTML5" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/f181b7a9-8c85-4a23-964f-9e3ef5ed6f29" alt="CSS3" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/8fddb951-e86b-405e-a3ed-267c0f338a07" alt="React" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/9a2ba78e-cd4d-402e-aa9a-2cdc3f40fab4" alt="Redux" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/fe4162af-0f69-4584-91ec-2f7f3271dda2" alt="PostgreSQL" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/836589d8-8472-4b01-bc74-01283f34423f" alt="NodesJS" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/595f19a3-cf94-4834-baa6-a704063a62ba" alt="NextJS" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/c32434ff-b172-44d5-bf9a-7d7a34d0e72f" alt="TailwindCSS" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/61a19b61-6fc2-41d9-bb64-bea239a416a1" alt="Cloudinary" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/e144ec87-42ae-45ff-838c-78a4fe62b5d5" alt="Git" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/c5c1256f-aeaf-4511-bde6-4805a22c0209" alt="GitHub" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/97ee686b-7589-41a0-86dc-0105b417f638" alt="Photoshop" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/8913c6aa-7d54-4382-8f0a-deb847bb2330" alt="Illustrator" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/2731d05f-71f7-45cc-b1a9-923b3c2dc991" alt="InDesign" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/fe053eda-1db9-4e5d-aa8a-e65e1e801a41" alt="Figma" width="50">
+<img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/b513e366-75c0-4bc4-ae73-cf5e17754c1e" alt="Blender" width="50">
