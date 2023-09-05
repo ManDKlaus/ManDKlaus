@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+  I´m a passionate Full Stack Developer, obviusly. When I´m not coding and building awesome web applications, you can find me indulging in my love for series and movies. I´m a huge fan of classics like Pokemon, Naruto, and Dragon Ball, and I´m always excited about the latest releases from the Marvel universe.
+  
+  Besides my love for technology, I´m also an avid artist and designer. I enjoy sketching, drawing, and creating digital art. Designing beautiful and intuitive user interfaces is one of my favorite parts of the development process.
+  
+  My journey as a Full Stack Developer has been a thrilling one, and I´m constantly seeking opportunities to learn and grow. I believe in the power of technology to make a positive impact on people´s lives, and that´s what drives me to work hard and deliver exceptional solutions.
+  
+  Let´s connect and explore the possibilities of collaborating on exciting projects. Feel free to reach out to me anytime!
 <!--
 **ManDKlaus/ManDKlaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
