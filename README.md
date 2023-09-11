@@ -10,6 +10,8 @@
   
   Let´s connect and explore the possibilities of collaborating on exciting projects. Feel free to reach out to me anytime!
 
+mansilland@gmail.com | [+54 9 11 4437-3544](https://wa.me/qr/2X77DSSQIW2EO1)
+
 <img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/c5e88e15-2c3d-4f6c-a411-2fe9688cbaab" alt="JavaScript" title="JavaScript" width="40">
 <img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/7c5b0ae3-db9e-4b0c-bc71-5ca8509e4118" alt="HTML5" title="HTML5" width="40">
 <img src="https://github.com/ManDKlaus/ManDKlaus/assets/76614604/7c5b0ae3-db9e-4b0c-bc71-5ca8509e4118" alt="HTML5" title="HTML5" width="40">
